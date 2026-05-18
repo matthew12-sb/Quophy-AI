@@ -1,0 +1,4 @@
+node_modules/
+.env
+scottyai_history.json
+*.log
